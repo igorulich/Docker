@@ -67,3 +67,4 @@
 ```  tag ```
 #### Створіть тег TARGET_IMAGE, який посилається на SOURCE_IMAGE,
 
+~~Manage images ~~ 
