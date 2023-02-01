@@ -55,7 +55,7 @@ docker sbom*
 ``` 
 docker scan* 
 ```
-* Docker Scan (Docker Inc., v0.23.0)*
+*Docker Scan (Docker Inc., v0.23.0)*
 ``` 
 docker secret  
 ```
