@@ -7,11 +7,11 @@ docker builder
 ``` 
 docker buildx*
 ```    
-#### Docker Buildx,
+*Docker Buildx*
 ```
 docker config
 ```     
-#### Керувати конфігураціями Docker,
+*Керувати конфігураціями Docker*
 ```
 docker container
 ``` 
