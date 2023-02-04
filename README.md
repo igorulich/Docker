@@ -1,16 +1,10 @@
  # Docker
-**Команди управління:**
-```
-docker builder
-```  
+* ***Команди управління:***
+``` builder```
 *Керувати збірками*
-``` 
-docker buildx*
-```    
+``` buildx*```  
 *Docker Buildx*
-```
-docker config
-```     
+```docker config```
 *Керувати конфігураціями Docker*
 ```
 docker container
