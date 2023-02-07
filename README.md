@@ -20,11 +20,11 @@
 ### ***Команди управління:***
 * ```builder``` *Керувати збірками*
 *  ```buildx*``` ***Docker Buildx** (Docker Inc., v0.10.0)*
-*  ```compose* ``` ***Docker Compose** (Docker Inc., v2.15.1)*
+*  ```compose\* ``` ***Docker Compose** (Docker Inc., v2.15.1)*
 *  ```config  ``` *Керувати конфігураціями **Docker***
 *  ```container``` *Керування контейнерами* 
 *  ```context``` *Керування контекстами*
-*  ```dev* ``` *Середовища розробників **Docker** (Docker Inc., v0.0.5)*
+*  ```dev\* ``` *Середовища розробників **Docker** (Docker Inc., v0.0.5)*
 *  ```extension*``` *Керує розширеннями **Docker** (Docker Inc., v0.2.17)*
 *  ``` image ``` *Керування зображеннями*
 *  ```manifest``` *Керування маніфестами зображень Docker і списками маніфестів*
